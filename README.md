@@ -237,6 +237,10 @@ All essential validations are handled at the frontend level to ensure data integ
 ![code coverage report(all files)](https://github.com/user-attachments/assets/4a9881d5-2220-441b-82db-896505499818)
 
 ---
+##  Dockerized Front End
+<img width="671" height="305" alt="image" src="https://github.com/user-attachments/assets/f1405159-55fa-475a-ab19-e7c8a4021daf" />
+
+---
 
 ##  ER Diagram
 ![WhatsApp Image 2025-12-15 at 10 48 58 PM](https://github.com/user-attachments/assets/d699149b-be8e-4aab-9543-d256c79c86c3)
