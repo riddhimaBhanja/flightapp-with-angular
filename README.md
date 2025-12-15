@@ -195,38 +195,37 @@ flight-booking-app/
 
 ---
 
-All critical validations are implemented on the frontend:
-Search Form
+##  Frontend Validation Rules
 
-Source is required
+All essential validations are handled at the frontend level to ensure data integrity, prevent invalid submissions, and provide immediate user feedback.
 
-Destination is required
+---
 
-Source and Destination cannot be the same
+###  Search Form Validations
 
-Date is required
+* Source field is mandatory
+* Destination field is mandatory
+* Source and Destination cannot be the same
+* Travel Date is required
+* Past dates are restricted and cannot be selected
 
-Past dates are not allowed
+---
 
-Login Form
+###  Login Form Validations
 
-Email is required
+* Email field is required
+* Email must follow a valid format
+* Password field is required
 
-Valid email format enforced
+---
 
-Password is required
+###  Registration Form Validations
 
-Register Form
+* Name field is mandatory
+* Email field is required and format-validated
+* Password field is required
+* Submit button remains disabled until the form is valid
 
-Name is required
-
-Email is required and validated
-
-Password is required
-
-Submit disabled if form is invalid
-
-Validation messages are shown immediately to guide users.
 
 ---
 ##  Code Coverage
