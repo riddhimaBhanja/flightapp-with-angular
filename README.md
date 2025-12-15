@@ -174,6 +174,26 @@ flight-booking-app/
 
 ---
 
+##  Registration page Validation Error
+![validation errors(registration)](https://github.com/user-attachments/assets/af4038bd-396f-4661-9dd2-a3bb5046f46d)
+
+
+---
+
+##  Search Flights Validation Error
+![search flights validation error](https://github.com/user-attachments/assets/0730e20b-d714-4116-a252-fe8fc6644e31)
+
+---
+
+##  Login Validation Error
+![login validation errors](https://github.com/user-attachments/assets/77a2b640-cdcc-40c4-adaa-c75513df1768)
+
+
+---
+##  Email Validation Error
+![email validation error](https://github.com/user-attachments/assets/6c24b65d-6606-4910-9394-f0a5140acca2)
+
+---
 ##  Code Coverage
 ![code coverage report(all files)](https://github.com/user-attachments/assets/4a9881d5-2220-441b-82db-896505499818)
 
