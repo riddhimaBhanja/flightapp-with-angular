@@ -295,6 +295,11 @@ Otherwise, create a new account via registration.
 | `/flights`    | Flight search (protected) |
 
 ---
+##  CODE COVERAGE BREAKDOWN
+![code coverage breakdown -1](https://github.com/user-attachments/assets/dbd9b003-242d-4e52-906e-1140ad04bde8)
+
+![code coverage breakdown -3](https://github.com/user-attachments/assets/522b4afd-cc48-4583-a8b6-54e9bf961f11)
+
 
 ##  API Integration
 
