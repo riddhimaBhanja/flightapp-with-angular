@@ -154,51 +154,49 @@ flight-booking-app/
 
 ---
 ##  Home Page
-![home page](https://github.com/user-attachments/assets/352cabef-353b-493f-88b2-41b9beaf4548)
+![home page](https://github.com/user-attachments/assets/e9bbd22d-0962-4b76-91fa-15fcd28bbec1)
 
 ---
 
 
 ##  Login Page
 
-<img width="959" height="471" alt="image" src="https://github.com/user-attachments/assets/bf41784b-523f-4f7a-a371-086ba690ed1c" />
+![login page for searching flights](https://github.com/user-attachments/assets/465aa6ad-546c-4fb2-9cb5-5b2fc567764d)
 
 ---
 
 ##  Search Flights
-![search flights page](https://github.com/user-attachments/assets/383a3eca-a29a-448b-acba-bf2b2b08821c)
+![search flights page](https://github.com/user-attachments/assets/1ce480e0-8b86-46e6-9089-815d715aca3b)
 
 ---
 
 ##  Create Account
-![creating account(register)](https://github.com/user-attachments/assets/518a6566-d6c5-4c81-a68b-b6eac02fc64d)
+![creating account(register)](https://github.com/user-attachments/assets/c4fce153-ca26-4f98-91eb-a548bccfdce8)
 
 ---
 
 ##  Login Successful
-![login page for searching flights](https://github.com/user-attachments/assets/822180ef-f35a-4707-b694-d482010ffc73)
+![login successful](https://github.com/user-attachments/assets/3716f344-cb7a-46a8-9aab-1256f16ec42b)
 
 
 ---
 
 ##  Registration page Validation Error
-![validation errors(registration)](https://github.com/user-attachments/assets/af4038bd-396f-4661-9dd2-a3bb5046f46d)
-
+![validation errors(registration)](https://github.com/user-attachments/assets/f42956f1-972e-46ed-bf66-aada0c771416)
 
 ---
 
 ##  Search Flights Validation Error
-![search flights validation error](https://github.com/user-attachments/assets/0730e20b-d714-4116-a252-fe8fc6644e31)
+![search flights validation error](https://github.com/user-attachments/assets/42d43fbb-4d01-4b25-ae5d-c6a9cd9d018e)
 
 ---
 
 ##  Login Validation Error
-![login validation errors](https://github.com/user-attachments/assets/77a2b640-cdcc-40c4-adaa-c75513df1768)
-
+![login validation errors](https://github.com/user-attachments/assets/e78f59fe-8fb7-430d-a48a-ef46e92f262f)
 
 ---
 ##  Email Validation Error
-![email validation error](https://github.com/user-attachments/assets/6c24b65d-6606-4910-9394-f0a5140acca2)
+![email validation error](https://github.com/user-attachments/assets/ff7adc1c-50d5-4add-858c-41d53e681469)
 
 ---
 
