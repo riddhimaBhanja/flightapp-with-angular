@@ -287,8 +287,6 @@ Artifacts are generated in the `dist/` directory.
 
 ---
 
----
-
 ##  Final Note
 
 This project is structured to reflect real-world frontend engineering standards—clean code, thoughtful UX, and secure workflows—making it suitable for both professional deployment and academic or training use.
