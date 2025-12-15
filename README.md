@@ -150,33 +150,39 @@ flight-booking-app/
 ##  Home Page
 ![home page](https://github.com/user-attachments/assets/352cabef-353b-493f-88b2-41b9beaf4548)
 
+---
 
 ##  Login Page
 ![login page for searching flights](https://github.com/user-attachments/assets/822180ef-f35a-4707-b694-d482010ffc73)
 
+---
 
 ##  Create Account
 ![creating account(register)](https://github.com/user-attachments/assets/518a6566-d6c5-4c81-a68b-b6eac02fc64d)
 
+---
 
 ##  Search Flights
 ![search flights page](https://github.com/user-attachments/assets/383a3eca-a29a-448b-acba-bf2b2b08821c)
 
+---
 
 ##  Code Coverage
 ![code coverage report(all files)](https://github.com/user-attachments/assets/4a9881d5-2220-441b-82db-896505499818)
 
+---
 
 ##  ER Diagram
 ![WhatsApp Image 2025-12-15 at 10 48 58 PM](https://github.com/user-attachments/assets/d699149b-be8e-4aab-9543-d256c79c86c3)
 
 
-
+---
 
 
 ##  Architecture Diagram
 ![WhatsApp Image 2025-12-15 at 10 48 59 PM](https://github.com/user-attachments/assets/ae63f580-a275-4742-adb6-efc2bd62124d)
 
+---
 
 
 ##  Installation & Setup
@@ -280,12 +286,6 @@ ng build --configuration production
 Artifacts are generated in the `dist/` directory.
 
 ---
-
-##  Troubleshooting
-
-* **CORS Issues:** Allow `http://localhost:4200` in backend
-* **API Errors:** Verify Docker containers and logs
-* **Auth Issues:** Confirm JWT storage and interceptor behavior
 
 ---
 
