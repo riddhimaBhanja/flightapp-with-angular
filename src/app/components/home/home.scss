@@ -1,0 +1,224 @@
+.home-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  animation: gradientShift 15s ease infinite;
+  background-size: 200% 200%;
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.hero-section {
+  max-width: 1200px;
+  width: 100%;
+
+  .hero-content {
+    text-align: center;
+    animation: fadeInDown 0.8s ease-out;
+
+    .logo-large {
+      width: 100px;
+      height: 100px;
+      margin: 0 auto 30px;
+      background: rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(10px);
+      border-radius: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      animation: float 3s ease-in-out infinite;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+
+      svg {
+        width: 60px;
+        height: 60px;
+        color: white;
+      }
+    }
+
+    h1 {
+      font-size: 56px;
+      font-weight: 800;
+      color: white;
+      margin: 0 0 20px 0;
+      text-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    }
+
+    .tagline {
+      font-size: 20px;
+      color: rgba(255, 255, 255, 0.9);
+      margin: 0 0 40px 0;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .cta-buttons {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+
+      button {
+        padding: 16px 32px;
+        font-size: 16px;
+        font-weight: 600;
+        border: none;
+        border-radius: 12px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+
+        svg {
+          width: 20px;
+          height: 20px;
+        }
+
+        &.btn-primary {
+          background: white;
+          color: #667eea;
+          box-shadow: 0 6px 20px rgba(255, 255, 255, 0.3);
+
+          &:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 30px rgba(255, 255, 255, 0.4);
+          }
+        }
+
+        &.btn-secondary {
+          background: rgba(255, 255, 255, 0.1);
+          backdrop-filter: blur(10px);
+          color: white;
+          border: 2px solid rgba(255, 255, 255, 0.3);
+          box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+
+          &:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-3px);
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+          }
+        }
+      }
+    }
+  }
+
+  .features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 24px;
+    margin-top: 60px;
+    animation: fadeInUp 0.8s ease-out 0.3s both;
+
+    .feature-card {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 16px;
+      padding: 32px;
+      text-align: center;
+      transition: all 0.3s ease;
+
+      &:hover {
+        transform: translateY(-8px);
+        background: rgba(255, 255, 255, 0.15);
+        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.2);
+      }
+
+      .feature-icon {
+        width: 64px;
+        height: 64px;
+        margin: 0 auto 20px;
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 16px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s ease;
+
+        svg {
+          width: 32px;
+          height: 32px;
+          color: white;
+        }
+      }
+
+      &:hover .feature-icon {
+        transform: scale(1.1) rotate(5deg);
+      }
+
+      h3 {
+        font-size: 20px;
+        font-weight: 700;
+        color: white;
+        margin: 0 0 12px 0;
+      }
+
+      p {
+        font-size: 14px;
+        color: rgba(255, 255, 255, 0.8);
+        margin: 0;
+        line-height: 1.6;
+      }
+    }
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-15px); }
+}
+
+@media (max-width: 768px) {
+  .hero-section {
+    .hero-content {
+      h1 {
+        font-size: 36px;
+      }
+
+      .tagline {
+        font-size: 16px;
+      }
+
+      .cta-buttons button {
+        font-size: 14px;
+        padding: 12px 24px;
+      }
+    }
+
+    .features {
+      grid-template-columns: 1fr;
+      margin-top: 40px;
+    }
+  }
+}
