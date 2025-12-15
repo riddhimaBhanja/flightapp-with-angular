@@ -152,15 +152,22 @@ flight-booking-app/
 
 ---
 
+
 ##  Login Page
-![login page for searching flights](https://github.com/user-attachments/assets/822180ef-f35a-4707-b694-d482010ffc73)
+
+<img width="959" height="471" alt="image" src="https://github.com/user-attachments/assets/bf41784b-523f-4f7a-a371-086ba690ed1c" />
 
 ---
-
 ##  Create Account
 ![creating account(register)](https://github.com/user-attachments/assets/518a6566-d6c5-4c81-a68b-b6eac02fc64d)
 
 ---
+
+##  Login Successful
+![login page for searching flights](https://github.com/user-attachments/assets/822180ef-f35a-4707-b694-d482010ffc73)
+
+---
+
 
 ##  Search Flights
 ![search flights page](https://github.com/user-attachments/assets/383a3eca-a29a-448b-acba-bf2b2b08821c)
