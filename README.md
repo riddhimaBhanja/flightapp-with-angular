@@ -172,6 +172,8 @@ flight-booking-app/
 
 
 
+
+
 ##  Architecture Diagram
 ![WhatsApp Image 2025-12-15 at 10 48 59 PM](https://github.com/user-attachments/assets/ae63f580-a275-4742-adb6-efc2bd62124d)
 
