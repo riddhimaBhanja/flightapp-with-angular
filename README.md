@@ -316,7 +316,10 @@ Otherwise, create a new account via registration.
 * `GET /api/flights/inventory/{id}`
 
 ---
+### Test Run with UI
+![test run with ui](https://github.com/user-attachments/assets/b42aee4d-b05c-43b2-b76c-138a1d88bb0b)
 
+---
 ##  Technologies Used
 
 * **Angular 21**
