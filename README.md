@@ -194,6 +194,41 @@ flight-booking-app/
 ![email validation error](https://github.com/user-attachments/assets/6c24b65d-6606-4910-9394-f0a5140acca2)
 
 ---
+
+All critical validations are implemented on the frontend:
+Search Form
+
+Source is required
+
+Destination is required
+
+Source and Destination cannot be the same
+
+Date is required
+
+Past dates are not allowed
+
+Login Form
+
+Email is required
+
+Valid email format enforced
+
+Password is required
+
+Register Form
+
+Name is required
+
+Email is required and validated
+
+Password is required
+
+Submit disabled if form is invalid
+
+Validation messages are shown immediately to guide users.
+
+---
 ##  Code Coverage
 ![code coverage report(all files)](https://github.com/user-attachments/assets/4a9881d5-2220-441b-82db-896505499818)
 
