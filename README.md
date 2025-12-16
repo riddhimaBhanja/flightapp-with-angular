@@ -21,6 +21,12 @@ It follows industry-standard Angular practices, ensuring scalability, maintainab
 * Optimized for both desktop and mobile devices
 
 ---
+##  Project Demo
+
+https://github.com/user-attachments/assets/391906d7-bf7c-43d8-a57e-86c1c7d945b8
+
+
+
 ##  Overall Flow
 
 ![WhatsApp Image 2025-12-15 at 11 24 00 PM](https://github.com/user-attachments/assets/b3cdcfa3-8ae2-4885-8791-7a2583769d37)
